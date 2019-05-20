@@ -10,3 +10,4 @@ This section contains specific documentation on the keysight instruments that ar
    :maxdepth: 2
 
    keysightN5767A
+   keysightN9020A
